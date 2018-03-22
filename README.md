@@ -1,7 +1,7 @@
-Phonegap-XLS-Plugin
+Cordova Excel(XLS) Plugin
 ====
 
-A Phonegap plugin to save XLS files
+A Cordova/Phonegap plugin to save XLS files
 
 ## How to use ##
 
@@ -24,7 +24,7 @@ A Phonegap plugin to save XLS files
 
 #### From github ####
     
-    cordova plugin add https://github.com/klawdyo/Phonegap-XLS-Plugin.git
+    cordova plugin add https://github.com/Carlos487/cordova-xls-plugin.git
     
 #### From file ####
     
@@ -39,8 +39,13 @@ Copy full directory to project root
 #### Install File plugin ####
 
     cordova plugin add org.apache.cordova.file
-    
+
+## License ##
+
+MIT License
+
 ## Thanks To ##
 
 * [JExcelAPI Project](http://sourceforge.net/projects/jexcelapi/)
 * [Using JExcelAPI in Android](http://www.kylebeal.com/2011/10/using-jexcelapi-in-an-android-app/)
+* [Phonegap-XLS-Plugin](https://github.com/jonathanbsilva/Phonegap-XLS-Plugin)
