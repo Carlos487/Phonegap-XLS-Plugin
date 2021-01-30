@@ -42,5 +42,6 @@ Copy full directory to project root
     
 ## Thanks To ##
 
+* [Phonegap XLS Plugin and its original author](https://github.com/jonathanbsilva/Phonegap-XLS-Plugin)
 * [JExcelAPI Project](http://sourceforge.net/projects/jexcelapi/)
 * [Using JExcelAPI in Android](http://www.kylebeal.com/2011/10/using-jexcelapi-in-an-android-app/)

@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-xls",
+  "version": "0.2.0",
+  "description": "A Phonegap plugin to save XLS files",
+  "cordova": {
+    "id": "com.carlos487.cordova.xls",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos487/cordova-xls-plugin.git"
+  },
+  "keywords": [
+    "phonegap",
+    "cordova",
+    "excel",
+    "xls",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Carlos Fabara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carlos487/cordova-xls-plugin/issues"
+  },
+  "homepage": "https://github.com/Carlos487/cordova-xls-plugin#readme"
+}
